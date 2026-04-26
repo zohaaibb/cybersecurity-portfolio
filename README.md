@@ -8,11 +8,11 @@ Hi, I am a cybersecurity professional specializing in identifying and fixing sec
 
 ##  What I Do
 
-- **Web Application Penetration Testing** — OWASP Top 10 based, manual + automated
-- **Network Security Assessments** — vulnerability scanning, traffic analysis, firewall review
-- **Vulnerability Reporting** — clear, prioritized, business-friendly reports with remediation guidance
-- **Security Audits** — systematic review of systems, configurations, and access controls
-- **Red Teaming** - Attack simulation like adversaries following the real world tactics such as MITRE ATT&CK Framework
+- **Web Application Penetration Testing** -> OWASP Top 10 based, manual + automated
+- **Network Security Assessments** -> vulnerability scanning, traffic analysis, firewall review
+- **Vulnerability Reporting** -> clear, prioritized, business-friendly reports with remediation guidance
+- **Security Audits** -> systematic review of systems, configurations, and access controls
+- **Red Teaming** -> Attack simulation like adversaries following the real world tactics such as MITRE ATT&CK Framework
 ---
 
 ## Tools & Technologies
