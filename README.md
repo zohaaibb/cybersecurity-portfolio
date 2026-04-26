@@ -1,12 +1,12 @@
-# 👨‍💻 Cybersecurity Portfolio
+#  Cybersecurity Portfolio
 
 > **Web Application Security | Penetration Testing | Vulnerability Assessment & Remediation**
 
-Hi, I'm a cybersecurity professional specializing in identifying and fixing security vulnerabilities before attackers can exploit them. I work with businesses to assess, test, and harden their digital assets — delivering clear, actionable reports that go beyond just flagging issues.
+Hi, I am a cybersecurity professional specializing in identifying and fixing security vulnerabilities before attackers can exploit them. I work with businesses to assess, test, and harden their digital assets, delivering clear, actionable reports that go beyond just flagging issues.
 
 ---
 
-## 🛠️ What I Do
+##  What I Do
 
 - **Web Application Penetration Testing** — OWASP Top 10 based, manual + automated
 - **Network Security Assessments** — vulnerability scanning, traffic analysis, firewall review
@@ -15,7 +15,7 @@ Hi, I'm a cybersecurity professional specializing in identifying and fixing secu
 - **Red Teaming** - Attack simulation like adversaries following the real world tactics such as MITRE ATT&CK Framework
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 Some of few tools
 | Category | Tools |
 |---|---|
@@ -27,7 +27,7 @@ Some of few tools
 
 ---
 
-## 📁 Case Studies
+## Case Studies
 
 | # | Project | Domain | Key Findings |
 |---|---|---|---|
@@ -37,16 +37,16 @@ Some of few tools
 
 ---
 
-## 📜 Certifications & Education
+## Certifications & Education
 
-- 🎓 Bachelor's in Cybersecurity *(in progress)*
-- **
+-  Bachelor's in Cybersecurity *(in progress)*
+-  CEH *(in progress)*
 
 ---
 
-## 📬 Work With Me
+##  Work With Me
 
-I'm available for freelance engagements on **Upwork** and open to direct project inquiries.
+I am available for freelance engagements on **Upwork** and open to direct project inquiries.
 
 - 🔗 **Upwork Profile:** **
 - 📧 **Email:** *zohaib.infosec@gmail.com*
